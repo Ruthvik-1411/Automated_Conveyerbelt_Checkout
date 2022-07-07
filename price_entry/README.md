@@ -1,5 +1,5 @@
 # Price entry of automated checkout counter
-Part 1 of realising an auotomated checkout counter.
+Part 1 of realising an automated checkout counter.
 >Implementation Video of price entry part : [Video](https://drive.google.com/file/d/149Q3q940hoRtR1hcXWyi73tVxEw8p2N0/view?usp=sharing)
 
 In this part, all the products to be added into the inventory are placed on the conveyer belt. As they pass through the scanner the belt is halted and the system waits for the user to enter the price of the corresponding product it scanned. After entering the price through the numpad the belt moves forward and the process repeats until user terminates this. All the product details like its code(barcode, qr code etc), price are added to a csv file at the end.
