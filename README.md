@@ -10,7 +10,7 @@ This project explores two possible use cases of this automated conveyer belt che
 This is step 1 of the process of making an automated counter.<br><br>
 The files for implementing step 1 are above in [Price Entry](https://github.com/Ruthvik-1411/Automated_Conveyerbelt_Checkout/tree/main/price_entry)
 
-* Then comes step 2 where the process is completely automated. The customer or user can place all the products to be purchased on the belt. As the products are scanned, their data is looked up from the _master file_ and processed. The cost, quantity, description are all processed and can be used to display an invoice incase of a retai purchase. An automated checkout counter that gives an invoice after placing all the desired products on the belt is implemented. <br><br>
+* Then comes step 2 where the process is completely automated. The customer or user can place all the products to be purchased on the belt. As the products are scanned, their data is looked up from the _master file_ and processed. The cost, quantity, description are all processed and can be used to display an invoice incase of a retail purchase. An automated checkout counter that gives an invoice after placing all the desired products on the belt is implemented. <br><br>
 The files for implementing step 2 are above in [Checkout](https://github.com/Ruthvik-1411/Automated_Conveyerbelt_Checkout/tree/main/checkout)
 
 > The images for different views of the conveyer belt can be found above [Conveyer Belt](https://github.com/Ruthvik-1411/Automated_Conveyerbelt_Checkout/tree/main/conveyer%20belt).
