@@ -1,3 +1,9 @@
+'''
+Python code for entering price of scanned items.
+Written 1 jul 2022
+by Ruthvik Kotapati
+'''
+
 import cv2                                      # importing libraries
 import time
 import serial
