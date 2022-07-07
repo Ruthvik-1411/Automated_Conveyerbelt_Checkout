@@ -89,8 +89,8 @@ void rest(){
  *  if any key is entered then blink the lights and
  *  add the key to string and if the key is '#' the break out of loop
  * and show the string added until now i.e 
- * if 3589# id entered one by one then after entering # loop breaks and prints 3589.
- * The print is read and decoded by python only. 
+ * if 3589# is entered one by one then after entering # loop breaks and prints 3589.
+ * The .print is read and decoded by python only. 
  */
 void price_entry(){
   while(true){
