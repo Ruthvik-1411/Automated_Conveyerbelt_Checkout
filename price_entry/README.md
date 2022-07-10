@@ -14,3 +14,6 @@ The steps in this process are as follows:<br>
 This csv file is what is referred to as _master file_ previously. The decription of the product can be added similarly. In this project only a small dataset is prepared. Due to lower fps of the camera and ineffective positioning of the camera only a few products could be scanned. This issue can be observed in the implementation video.
 > The master file made in this project is [Price Index.csv](https://github.com/Ruthvik-1411/Automated_Conveyerbelt_Checkout/blob/main/price_entry/Price_index.csv).
 The arduino code and python code can be found above with comments.
+
+<b>Circuit:</b><br>
+<img src="https://github.com/Ruthvik-1411/Automated_Conveyerbelt_Checkout/blob/main/price_entry/pe_ckt.jpg?raw=true" height=300 width=350>
