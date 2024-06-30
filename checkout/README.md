@@ -1,6 +1,6 @@
 # Automated checkout and invoice printing
 Part 2 of automated conveyer belt checkout counter.
->Implementation video of checkout part [Video](https://drive.google.com/file/d/1ZIcJs7d93SwWbs8vTnuJpx11dEur0fVV/view?usp=sharing).
+>YouTube Demo video of checkout part - https://youtu.be/lck1uOHtO9k
 
 In this part the user or customer places all the items he want to purchase on the conveyer belt. The belt keeps moving forward and the scanner scans the items and decodes the code in the frame. This data is looked up against data in the _master file_ and when the match is found, all the details of the item are retreived. If the item is scanned more than once, the quantity is updated accordingly. An invoice is generated using the quantity, price and description of the items scanned.
 
